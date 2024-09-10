@@ -7,11 +7,11 @@ It aims to implement and evaluate a policy iteration algorithm in a custom envir
 The task is to develop and use a policy iteration algorithm to solve a grid-based environment (gym-walk), where the agent learns the optimal sequence of actions to maximize its probability of reaching the goal state and achieving the highest cumulative reward.
 
 ## POLICY ITERATION ALGORITHM
-### Step 1: Start with a random policy and an arbitrary value function.
-### Step 2: Compute the value function for the current policy.
-### Step 3: Update the policy to be greedy with respect to the current value function.
-### Step 4: Repeat evaluation and improvement until the policy stabilizes.
-### Step 5: The final policy is optimal and provides the best actions for each state.
+#### Step 1: Start with a random policy and an arbitrary value function.
+#### Step 2: Compute the value function for the current policy.
+#### Step 3: Update the policy to be greedy with respect to the current value function.
+#### Step 4: Repeat evaluation and improvement until the policy stabilizes.
+#### Step 5: The final policy is optimal and provides the best actions for each state.
 
 ## POLICY IMPROVEMENT FUNCTION
 ### Name: Meetha Prabhu
